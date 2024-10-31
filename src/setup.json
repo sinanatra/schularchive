@@ -1,5 +1,5 @@
 {
-    "title": "ReFa Reader",
+    "title": "Willkommen im Schularchive-Wiki",
     "api": "",
     "local": "db.json",
     "url": "http://schularchive.bbf.dipf.de/index.php/Special:URIResolver/",
@@ -10,10 +10,10 @@
     },
     "publicSite": "",
     "languages": [
-        "en"
+        "de"
     ],
     "description": {
-        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing. Sed vel augue viverra, suscipit nisi sagittis, molestie neque."
+        "de": "Dieses Wiki dient zur Sammlung schulgeschichtlichen Wissens. Verzeichnet werden allgemeine Angaben sowie die Standorte von Quellen und Materialien, die über die Geschichte einzelner Schulen und Lehrerbildungseinrichtungen im deutschsprachigen Raum Auskunft geben. Das können das eigene Archiv der Schule, aber auch externe Archive oder die Sammlungen von Schulmuseen sein."
     },
     "batch": 30,
     "mainCategories": [],
