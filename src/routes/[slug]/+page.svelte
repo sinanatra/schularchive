@@ -6,7 +6,7 @@
 	import { page } from '$app/stores';
 	import { writable } from 'svelte/store';
 	import { items, hoverNode, scrollX, graphScroll } from '@stores';
-	import { db, loadDb } from '@db'; // Import the db store and loadDb function
+	import { db, loadDb } from '@db'; 
 
 	import { onMount } from 'svelte';
 	import { extractLinks, createTriplets } from '@utils';
