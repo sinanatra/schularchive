@@ -4,8 +4,10 @@
     "local": "db.json",
     "url": "http://schularchive.bbf.dipf.de/index.php/Special:URIResolver/",
     "paths": {
-        "title": "@id",
-        "img": [],
+        "title": "title",
+        "img": [
+            "image"
+        ],
         "property": ""
     },
     "publicSite": "",
