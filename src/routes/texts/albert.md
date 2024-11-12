@@ -6,7 +6,7 @@ author: Linda Freyberg
 isPublic: true
 lang: de
 description: "Das Albert-Einstein-Gymnasium ist ein bilinguales Gymnasium im Berliner Ortsteil Britz, das nach Albert Einstein benannt ist."
-cover: ""
+cover: "https://upload.wikimedia.org/wikipedia/commons/a/af/Einsteingymn-b.jpg"
 ---
 
 Das [Albert-Einstein-Gymnasium](http://schularchive.bbf.dipf.de/index.php/Special:URIResolver/Albert-2DEinstein-2DGymnasium_-2D_Berlin) (kurz AEO, da die Schule bis 2007 Albert-Einstein-Oberschule hieß) ist ein bilinguales [Gymnasium](http://schularchive.bbf.dipf.de/index.php/Special:URIResolver/Gymnasium) im Berliner Ortsteil Britz, das nach [Albert Einstein](https://de.wikipedia.org/wiki/Albert_Einstein) benannt ist.
