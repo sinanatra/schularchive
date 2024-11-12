@@ -6,7 +6,7 @@ author: Linda Freyberg
 isPublic: true
 lang: de
 description: "Die Schillerschule ist ein Gymnasium in Frankfurt am Main im Stadtteil Sachsenhausen."
-cover: ""
+cover: "https://upload.wikimedia.org/wikipedia/commons/8/81/Schillerschule_Ffm.jpg"
 ---
 
 Die [Schillerschule](http://schularchive.bbf.dipf.de/index.php/Special:URIResolver/Schillerschule_Frankfurt_am_Main) ist ein [Gymnasium](http://schularchive.bbf.dipf.de/index.php/Special:URIResolver/Gymnasium) in [Frankfurt am Main](http://schularchive.bbf.dipf.de/index.php/Special:URIResolver/Frankfurt_am_Main) im Stadtteil Sachsenhausen. Es werden etwa 1200 Schüler unterrichtet. Das Kollegium umfasst etwa 100 Lehrkräfte (Stand: 2019). Damit gehört sie zu den größten Schulen Frankfurts.
