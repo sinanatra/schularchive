@@ -1,7 +1,7 @@
 ---
 title: Albert-Einstein-Gymnasium
 date: "2024-11-13"
-color: "black"
+color: "Gelborange"
 author: Linda Freyberg
 isPublic: true
 lang: de
