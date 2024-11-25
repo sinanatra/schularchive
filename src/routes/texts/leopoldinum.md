@@ -5,8 +5,8 @@ color: "#EB6A27"
 author: Linda Freyberg
 isPublic: true
 lang: de
-description: "Das Albert-Einstein-Gymnasium ist ein bilinguales Gymnasium im Berliner Ortsteil Britz, das nach Albert Einstein benannt ist."
-cover: "https://upload.wikimedia.org/wikipedia/commons/a/af/Einsteingymn-b.jpg"
+description: "Das Gymnasium Leopoldinum (Leopoldinum, auch Leo) ist eines von vier Gymnasien in Passau. Das Gymnasium Leopoldinum gehört zu den ältesten Schulen Deutschlands."
+cover: "[https://upload.wikimedia.org/wikipedia/commons/a/af/Einsteingymn-b.jpg](https://de.wikipedia.org/wiki/Gymnasium_Leopoldinum_(Passau)#/media/Datei:Gymnasium_Leopoldinum_Passau.jpg)"
 ---
 
 Das [Gymnasium Leopoldinum Passau]([http://schularchive.bbf.dipf.de/index.php/Special:URIResolver/Gymnasium_Leopoldinum_Passau-231](http://schularchive.bbf.dipf.de/index.php/Special:URIResolver/Gymnasium_Leopoldinum_Passau-231)) (Leopoldinum, auch Leo) ist eines von vier [Gymnasium](http://schularchive.bbf.dipf.de/index.php/Special:URIResolver/Gymnasium)in Passau. Seinen heutigen Namen trägt es seit 1965. Das Gymnasium Leopoldinum gehört zu den ältesten Schulen Deutschlands. Seine Geschichte geht zurück auf die Passauer Domschule. 
