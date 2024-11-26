@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/89a716c0-a869-4882-aec3-72fd32042546)---
+---
 title: Gymnasium Leopoldinum Passau
 date: "2024-11-13"
 color: "#5C8DB6"
