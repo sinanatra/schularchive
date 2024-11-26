@@ -1,7 +1,7 @@
 ---
 title: Schillerschule Frankfurt am Main
 date: "2024-11-13"
-color: "black"
+color: "#941123"
 author: Linda Freyberg
 isPublic: true
 lang: de
