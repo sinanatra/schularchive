@@ -9,19 +9,15 @@ description: "Das Gymnasium Leopoldinum (Leopoldinum, auch Leo) ist eines von vi
 cover: "https://upload.wikimedia.org/wikipedia/commons/a/af/Einsteingymn-b.jpg"
 ---
 
-Das [Gymnasium Leopoldinum Passau]([http://schularchive.bbf.dipf.de/index.php/Special:URIResolver/Gymnasium_Leopoldinum_Passau-231](http://schularchive.bbf.dipf.de/index.php/Special:URIResolver/Gymnasium_Leopoldinum_Passau-231)) (Leopoldinum, auch Leo) ist eines von vier [Gymnasium](http://schularchive.bbf.dipf.de/index.php/Special:URIResolver/Gymnasium)in Passau. Seinen heutigen Namen trägt es seit 1965. Das Gymnasium Leopoldinum gehört zu den ältesten Schulen Deutschlands. Seine Geschichte geht zurück auf die Passauer Domschule. 
-Vor 1892
+Das [Gymnasium Leopoldinum Passau]([http://schularchive.bbf.dipf.de/index.php/Special:URIResolver/Gymnasium_Leopoldinum_Passau-231](http://schularchive.bbf.dipf.de/index.php/Special:URIResolver/Gymnasium_Leopoldinum_Passau-231)) (Leopoldinum, auch Leo) ist eines von vier [Gymnasien](http://schularchive.bbf.dipf.de/index.php/Special:URIResolver/Gymnasium)in [Passau](http://schularchive.bbf.dipf.de/index.php/Special:URIResolver/Passau). Seinen heutigen Namen trägt es seit 1965. Das Gymnasium Leopoldinum gehört zu den ältesten Schulen Deutschlands. Seine Geschichte geht zurück auf die Passauer Domschule. 
 
-Schon bald nach der Gründung des Bistums Passau im Jahr 739 wurde eine Domschule zur Ausbildung des Klerus gegründet. Verbürgt ist die Blütezeit dieser Schule im 9. Jahrhundert durch den Abt Godehard des Klosters Niederaltaich und im 11. bis 13. Jahrhundert durch die Namen der leitenden Lehrer.
+Schon bald nach der Gründung des Bistums Passau im Jahr 739 wurde eine Domschule zur Ausbildung des Klerus gegründet. Verbürgt ist die Blütezeit dieser Schule im 9. Jahrhundert durch den [Abt Godehard](http://schularchive.bbf.dipf.de/index.php/Special:URIResolver/Abt_Godehard) des [Klosters Niederaltaich](http://schularchive.bbf.dipf.de/index.php/Special:URIResolver/Kloster_Niederalteich) und im 11. bis 13. Jahrhundert durch die Namen der leitenden Lehrer.
 
-Wie viele andere Domschulen wurde sie ab dem 14. Jahrhundert aufgrund der Gründung von Universitäten nur noch als Lateinschule betrieben. 1611 rief Bischof Leopold V. die österreichischen Jesuiten nach Passau, die die Lateinschule als Jesuitenkolleg übernahmen. 1612 wurde aus dem Jesuitenkolleg das erste Passauer Gymnasium. Bis 1617 errichteten die Jesuiten das Gebäude, das heute noch immer das Hauptgebäude des Gymnasiums Leopoldinum ist.
+Wie viele andere Domschulen wurde sie ab dem 14. Jahrhundert aufgrund der Gründung von Universitäten nur noch als Lateinschule betrieben (für weitere Informationen über diesse Schulart besuchen Sie gerne den [Schulformen-Glossar](http://schularchive.bbf.dipf.de/index.php/Special:URIResolver/Glossar_Schulformen) des Schularchive-Wikis). 1611 rief [Bischof Leopold V.](http://schularchive.bbf.dipf.de/index.php/Special:URIResolver/Bischof_Leopold_V) die österreichischen Jesuiten nach Passau, die die Lateinschule als Jesuitenkolleg übernahmen. 1612 wurde aus dem Jesuitenkolleg das erste Passauer Gymnasium. Bis 1617 errichteten die Jesuiten das Gebäude, das heute noch immer das Hauptgebäude des Gymnasiums Leopoldinum ist. Über das Wendejahr 1612 erschien 1987 eine [Jubiläumsschrift](http://schularchive.bbf.dipf.de/index.php/Special:URIResolver/Die_Jesuiten_in_Passau_-3A_Schule_u._Bibliothek_1612_-2D_1773-3B_375_Jahre_Gymnasium_Leopoldinum_u._Staatl._Bibliothek_Passau). 
 
-Nach der Aufhebung des Jesuitenordens im Jahr 1773 wurde die Schule zuerst vom Fürstbischof als Episcopale et Academicum Gymnasium und ab 1803 durch das Land Bayern als Churfürstlich baierisches Gymnasium und ab 1806 als Königliche Studienanstalt zu Passau weitergeführt.[3]
-Ab 1892
+Nach der [Aufhebung des Jesuitenordens](http://schularchive.bbf.dipf.de/index.php/Special:URIResolver/Aufhebungsurkunde_Jesuitenorden) im Jahr 1773 wurde die Schule zuerst vom Fürstbischof als Episcopale et Academicum Gymnasium und ab 1803 durch das Land Bayern als Churfürstlich baierisches Gymnasium und ab 1806 als Königliche Studienanstalt zu Passau weitergeführt.
 
 Ab 1892 wird die Schule durchgängig als Gymnasium bezeichnet (zuerst Königlich humanistisches Gymnasium in Passau); von 1918 bis 1965 wurde die Schule Humanistisches Gymnasium Passau benannt. 1965 wurde die Schule in Gymnasium Leopoldinum umbenannt, dessen Ausrichtung humanistisch-neusprachlich war. Ab 1992 war das Gymnasium ein Europäisches Gymnasium. Seit September 2013 ist das Leopoldinum wieder ein sprachliches und humanistisches Gymnasium.
-Lehrangebot
-Portal des Leopoldinums (2010)
 
 In drei Jahrgangsstufen kann im Gymnasium Leopoldinum zwischen verschiedenen Fächern gewählt werden:
 
