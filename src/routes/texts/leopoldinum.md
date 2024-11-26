@@ -6,7 +6,7 @@ author: Linda Freyberg
 isPublic: true
 lang: de
 description: "Das Gymnasium Leopoldinum (Leopoldinum, auch Leo) ist eines von vier Gymnasien in Passau. Das Gymnasium Leopoldinum gehört zu den ältesten Schulen Deutschlands."
-cover: "https://upload.wikimedia.org/wikipedia/commons/a/af/Einsteingymn-b.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Gymnasium_Leopoldinum_Passau.jpg/800px-Gymnasium_Leopoldinum_Passau.jpg"
+cover: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Gymnasium_Leopoldinum_Passau.jpg/800px-Gymnasium_Leopoldinum_Passau.jpg"
 ---
 
 Das [Gymnasium Leopoldinum Passau]([http://schularchive.bbf.dipf.de/index.php/Special:URIResolver/Gymnasium_Leopoldinum_Passau-231](http://schularchive.bbf.dipf.de/index.php/Special:URIResolver/Gymnasium_Leopoldinum_Passau-231)) (Leopoldinum, auch Leo) ist eines von vier [Gymnasien](http://schularchive.bbf.dipf.de/index.php/Special:URIResolver/Gymnasium)in [Passau](http://schularchive.bbf.dipf.de/index.php/Special:URIResolver/Passau). Seinen heutigen Namen trägt es seit 1965. Das Gymnasium Leopoldinum gehört zu den ältesten Schulen Deutschlands. Seine Geschichte geht zurück auf die Passauer Domschule. 
