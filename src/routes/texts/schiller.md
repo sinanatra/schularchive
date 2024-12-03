@@ -1,6 +1,6 @@
 ---
 title: Schillerschule Frankfurt am Main
-date: "2024-11-13"
+date: "2023-11-27 27."
 color: "#941123"
 author: Wikipedia
 isPublic: true
