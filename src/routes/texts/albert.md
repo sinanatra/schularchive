@@ -2,7 +2,7 @@
 title: Albert-Einstein-Gymnasium
 date: "2024-11-13"
 color: "#EB6A27"
-author: Wikipedia
+author: Wikipedia (editiert)
 isPublic: true
 lang: de
 description: "Das Albert-Einstein-Gymnasium ist ein bilinguales Gymnasium im Berliner Ortsteil Britz, das nach Albert Einstein benannt ist."
