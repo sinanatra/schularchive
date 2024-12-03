@@ -2,7 +2,7 @@
 title: Schillerschule Frankfurt am Main
 date: "2023-11-27 27."
 color: "#941123"
-author: Wikipedia
+author: Wikipedia (editiert)
 isPublic: true
 lang: de
 description: "Die Schillerschule ist ein Gymnasium in Frankfurt am Main im Stadtteil Sachsenhausen."
