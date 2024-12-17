@@ -14,6 +14,7 @@
 	<div>
 		<img src="logo1.png" />
 		<img src="logo2.jpg" />
+		<img src="logo3.png" />
 	</div>
 </header>
 
