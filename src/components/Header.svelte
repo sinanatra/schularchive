@@ -34,6 +34,7 @@
 		padding: 10px;
 		flex: 0 0 380px;
 		background-color: #efefef;
+		overflow: scroll;
 	}
 
 	h1 {
