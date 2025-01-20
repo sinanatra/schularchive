@@ -23,10 +23,13 @@
 		display: flex;
 		gap: 10px;
 	}
-	
+
 	img {
 		max-width: 100px;
-		height: fit-content;
+		max-width: 100px;
+		/* height: fit-content; */
+		height: 100px;
+		object-fit: contain;
 		mix-blend-mode: multiply;
 	}
 
